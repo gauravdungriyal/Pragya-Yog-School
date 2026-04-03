@@ -43,8 +43,8 @@ const RoleSelection = ({ onSelect }) => {
 
       <div className="text-center mb-12 relative z-10">
         <img src="/pragyalogo.webp" alt="Pragya" className="w-20 mx-auto mb-6" />
-        <h1 className="text-4xl font-serif italic font-bold text-pragya-green mb-2 tracking-tight">Welcome to the Sanctuary</h1>
-        <p className="text-[10px] uppercase tracking-[0.4em] font-black text-pragya-dark/40">Choose your manifestation path</p>
+        <h1 className="text-4xl font-serif italic font-bold text-pragya-green mb-2 tracking-tight">Welcome to Pragya Yog School</h1>
+        <p className="text-[10px] uppercase tracking-[0.4em] font-black text-pragya-dark/40">Choose your path</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-5xl relative z-10">
@@ -76,7 +76,7 @@ const RoleSelection = ({ onSelect }) => {
       </div>
 
       <p className="mt-16 text-[9px] uppercase tracking-[0.3em] font-black text-pragya-dark/20 italic relative z-10">
-        Pragya Yog School Sanctuary • Established 2026
+        PRAGYA YOG SCHOOL COMMUNITY • ESTABLISHED 2026
       </p>
     </div>
   );
